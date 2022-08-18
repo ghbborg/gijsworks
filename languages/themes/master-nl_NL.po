@@ -1,0 +1,343 @@
+# Translation of Themes - Master in Dutch
+# This file is distributed under the same license as the Themes - Master package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-17 16:54:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Master\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Lightweight blog theme. It is very easy to use and customize. View more https://www.wpentire.com/master-free-wordpress-blog-theme/"
+msgstr "Lichtgewicht blog thema. Het is heel gemakkelijk te gebruiken en aan te passen. Bekijk meer https://www.wpentire.com/master-free-wordpress-blog-theme/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Master"
+msgstr "Master"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:29
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lees verder <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:42
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien kan zoeken helpen."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets overeen met je zoektermen. Probeer het nog eens met wat andere keywords."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: single.php:25
+msgid "Next:"
+msgstr "Volgende:"
+
+#: single.php:24
+msgid "Previous:"
+msgstr "Vorige:"
+
+#. translators: %s: search query.
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:171
+msgid "&nbsp; by &nbsp;"
+msgstr "&nbsp; door &nbsp;"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:33
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bewerk <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laat een reactie achter <span class=\"screen-reader-text\">op %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr "Getagd %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr "Gepubliceerd in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Gepubliceerd op %s"
+
+#: inc/customizer.php:68
+msgid "Enter your copyright text here."
+msgstr "Voer hier je copyright tekst in."
+
+#: inc/customizer.php:67
+msgid "Copyright Text"
+msgstr "Copyright tekst"
+
+#: inc/customizer.php:48
+msgid "Footer Options"
+msgstr "Footer opties"
+
+#: inc/customizer.php:40
+msgid "Master Options"
+msgstr "Master opties"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:316
+msgid "Add widgets here."
+msgstr "Voeg hier widgets toe."
+
+#: functions.php:314
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:269
+msgid "Red to purple"
+msgstr "Rood tot paars"
+
+#: functions.php:264
+msgid "Purple to red"
+msgstr "Paars tot rood"
+
+#: functions.php:259
+msgid "Yellow to red"
+msgstr "Geel tot rood"
+
+#: functions.php:254
+msgid "Red to yellow"
+msgstr "Rood tot geel"
+
+#: functions.php:249
+msgid "Yellow to green"
+msgstr "Geel tot groen"
+
+#: functions.php:244
+msgid "Green to yellow"
+msgstr "Groen tot geel"
+
+#: functions.php:239
+msgid "Yellow to purple"
+msgstr "Geel tot paars"
+
+#: functions.php:234
+msgid "Purple to yellow"
+msgstr "Paars tot geel"
+
+#: functions.php:223
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:218
+msgid "Yellow"
+msgstr "Geel"
+
+#: functions.php:213
+msgid "Orange"
+msgstr "Oranje"
+
+#: functions.php:208
+msgid "Red"
+msgstr "Rood"
+
+#: functions.php:203
+msgid "Purple"
+msgstr "Paars"
+
+#: functions.php:198
+msgid "Blue"
+msgstr "Blauw"
+
+#: functions.php:193
+msgid "Green"
+msgstr "Groen"
+
+#: functions.php:188
+msgid "Gray"
+msgstr "Grijs"
+
+#: functions.php:183
+msgid "Dark gray"
+msgstr "Donkergrijs"
+
+#: functions.php:178
+msgid "Black"
+msgstr "Zwart"
+
+#: functions.php:155
+msgctxt "Font size"
+msgid "XXXL"
+msgstr "XXXL"
+
+#: functions.php:154
+msgid "Gigantic"
+msgstr "Reusachtig"
+
+#: functions.php:149
+msgctxt "Font size"
+msgid "XXL"
+msgstr "XXL"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Reusachtig"
+
+#: functions.php:143
+msgctxt "Font size"
+msgid "XL"
+msgstr "Xl"
+
+#: functions.php:142
+msgid "Extra large"
+msgstr "Extra groot"
+
+#: functions.php:137
+msgctxt "Font size"
+msgid "L"
+msgstr "L"
+
+#: functions.php:136
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:131
+msgctxt "Font size"
+msgid "M"
+msgstr "M"
+
+#: functions.php:130
+msgid "Normal"
+msgstr "Normaal"
+
+#: functions.php:125
+msgctxt "Font size"
+msgid "S"
+msgstr "S"
+
+#: functions.php:124
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:119
+msgctxt "Font size"
+msgid "XS"
+msgstr "Xs"
+
+#: functions.php:118
+msgid "Extra small"
+msgstr "Extra klein"
+
+#: functions.php:54
+msgid "Social"
+msgstr "Sociaal"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Primair"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:32
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:26
+msgid "Proudly powered by %s"
+msgstr "Met trots aangedreven door %s"
+
+#: footer.php:23
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:19 inc/customizer.php:59
+msgid "Copyright All Rights Reserved"
+msgstr "Copyright alle rechten voorbehouden"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Opmerkingen zijn gesloten."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Een gedachte over &ldquo;%1$s&rdquo;"
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat niets gevonden is op deze locatie. Wellicht kan je één van de volgende links gebruiken of je kan zoeken?"
+
+#: 404.php:29
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#: 404.php:18
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.wpentire.com/"
+msgstr "https://www.wpentire.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "wpentire"
+msgstr "wpentire"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.wpentire.com/master-free-wordpress-blog-theme/"
+msgstr "https://www.wpentire.com/master-free-wordpress-blog-theme/"

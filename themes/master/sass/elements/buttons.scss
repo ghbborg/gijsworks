@@ -1,0 +1,53 @@
+//
+//  Shadows
+//
+.button {
+  pointer-events: all;
+  cursor: pointer;
+  border-radius: 50px;
+  align-items: center;
+  &.cta-border {
+    border: 2px solid #0A807F;
+  }
+}
+
+.custom-button {
+  &.button-white {
+    border: none !important;
+    padding: 0 !important;
+  }
+}
+
+.button-underline {
+  width: fit-content;
+  transition: all .3s ease;
+  &:after {
+    transition: all .3s ease;
+    content: '';
+    display: block;
+    width: full;
+    height: 1px;
+    background-color: #000;
+    margin-top: .25rem;
+  }
+  &:hover {
+    color: #dc6c2e;
+    &:after {
+      background-color: #dc6c2e;
+    }
+  }
+  &:active {
+    color: #3d3d3d;
+    &:after {
+      background-color: #3d3d3d;
+    }
+  }
+}
+
+.contact-button {
+  &:hover {
+    img {
+      filter: invert(1);
+    }
+  }
+}

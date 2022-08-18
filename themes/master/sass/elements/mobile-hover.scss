@@ -1,0 +1,39 @@
+//
+//  Mobile hover simulation
+//
+@media (max-width: theme('screens.lg')) {
+  .mobile-hover {
+    &.exemplaar {
+      &.hovered {
+        .exemplaar-border {
+          div {
+              transform: scale(.80) !important;
+          }
+        }
+        .exemplaar-image {
+          transform: scale(1) !important;
+        }
+      }
+    }
+    &.occasion {
+      &.hovered {
+        .occasion-image {
+          background-size: 102.5%;
+        }
+      }
+    }
+    &.service {
+      &.hovered {
+        .service-gradient {
+          max-height: 50%;
+          opacity: 100%;
+        }
+        .service-arrow {
+          opacity: 100%;
+        }
+      }
+    }
+  }
+}
+
+

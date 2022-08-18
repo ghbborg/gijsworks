@@ -1,0 +1,1452 @@
+2022-01-07T08:34:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:34:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:34:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:34:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:03+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:03+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:31+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:35:31+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca... in /Applications/MAMP/htdocs/romeijn/assets/themes/master/woocommerce/cart/cart.php op de lijn 71
+
+2022-01-07T08:48:02+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:02+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:21+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:21+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:28+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:29+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:48:59+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:49:00+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:49:04+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:49:04+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T08:49:06+00:00 CRITICAL Uncaught Error: Call to undefined function wp_enqueue_js() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:213
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): bbloomer_cart_refresh_update_qty('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applications/MAMP/htdocs/romeij in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 213
+
+2022-01-07T12:40:47+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:47+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:48+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:48+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:48+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:57+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:57+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:57+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T12:40:57+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 212
+
+2022-01-07T13:18:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::ID() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 6
+
+2022-01-07T13:18:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::ID() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 6
+
+2022-01-07T13:18:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::ID() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 6
+
+2022-01-07T13:18:50+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::ID() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:6
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 6
+
+2022-01-07T13:19:26+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:19:26+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:19:26+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:19:26+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:21:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:21:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:21:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:21:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T13:23:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:35+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:35+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:42+00:00 CRITICAL Cannot use [] for reading in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:42+00:00 CRITICAL Cannot use [] for reading in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:42+00:00 CRITICAL Cannot use [] for reading in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:23:42+00:00 CRITICAL Cannot use [] for reading in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:24:22+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::title() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:24:22+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::title() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:24:22+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::title() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:24:22+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::title() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:25:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:25:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:25:42+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:25:42+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:26:22+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:22+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:22+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:30+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:30+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:30+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:26:30+00:00 CRITICAL Cannot use temporary expression in write context in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 9
+
+2022-01-07T13:28:11+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:11+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:12+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:12+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:54+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:55+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:55+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:28:55+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:29:07+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:29:07+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:29:07+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:29:07+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_price() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:46+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:46+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:46+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:31:49+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:10
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 10
+
+2022-01-07T13:51:50+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:51:51+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:29+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:30+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:40+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:45+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:52:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_post_thumbnail_url() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:15
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:05+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 16
+
+2022-01-07T13:55:05+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 16
+
+2022-01-07T13:55:05+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 16
+
+2022-01-07T13:55:05+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 16
+
+2022-01-07T13:55:07+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:07+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:08+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:08+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:15+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T13:55:15+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 15
+
+2022-01-07T14:17:58+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:17:59+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:17:59+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:17:59+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:20:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:20:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:20:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:20:15+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 22
+
+2022-01-07T14:20:43+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR), expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 40
+
+2022-01-07T14:20:43+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR), expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 40
+
+2022-01-07T14:20:43+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR), expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 40
+
+2022-01-07T14:20:43+00:00 CRITICAL syntax error, unexpected 'endfor' (T_ENDFOR), expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 40
+
+2022-01-07T14:34:11+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:34:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:34:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:34:24+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:34:24+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:03+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:11+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:11+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:35:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:25+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:25+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:29+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:35+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:43+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:48+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:54+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:54+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:35:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:02+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:05+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:05+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:08+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:08+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:13+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:29+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:11
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 11
+
+2022-01-07T14:36:45+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:36:58+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:36:59+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:18+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:18+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:29+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:30+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:34+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:35+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:38+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:42+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:50+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T14:37:56+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php:12
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/index.php(28): include()
+#1 /Applications/MAMP/htdocs/romeijn/assets/themes/master/templates/master.php(6): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/trendingproducts.php op de lijn 12
+
+2022-01-07T15:43:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_orderby(), 0 passed in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 96 and exactly 1 expected in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:101
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(96): custom_orderby()
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options(Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php(1455): apply_filters('woocommerce_cat...', Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-incl in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 101
+
+2022-01-07T15:43:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_orderby(), 0 passed in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 96 and exactly 1 expected in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:101
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(96): custom_orderby()
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options(Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php(1455): apply_filters('woocommerce_cat...', Array)
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-incl in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 101
+
+2022-01-07T15:44:13+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:13+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:16+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:16+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:28+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:28+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php:1475
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/romeijn/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php op de lijn 1475
+
+2022-01-07T15:44:51+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 88
+
+2022-01-07T15:44:51+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 88
+

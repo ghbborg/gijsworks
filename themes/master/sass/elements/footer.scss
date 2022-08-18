@@ -1,0 +1,52 @@
+//
+//  footer
+//
+
+.footer-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: .5rem;
+  border: 1px solid rgba(0, 0, 0, .5);
+  div {
+    transition: all .3s ease;
+  }
+  &:hover {
+    border-color: #000;
+    background-color: #000;
+    div {
+      filter: invert(1) brightness(1);
+    }
+  }
+}
+
+footer {
+  transition: all .3s ease;
+  @media (max-width: theme('screens.lg')) {
+    background-size: cover;
+  }
+  background-size: 110%;
+  background-position: -1rem;
+  &.footer-half {
+    margin-top: -42.5vh;
+    padding-top: 42vh;
+  }
+  .footer-image {
+    svg {
+      * {
+        stroke-width: 0;
+      }
+    }
+    @media (min-width: theme('screens.lg')) {
+      max-width: 15rem;
+    }
+  }
+  .footer-line {
+    width: 1px;
+    background-color: rgba(0,0,0,.5);
+  }
+  .footer-svg-2 {
+    .cls-2 {
+      fill: #0c2331;
+    }
+  }
+}

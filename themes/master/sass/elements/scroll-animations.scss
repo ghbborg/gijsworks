@@ -1,0 +1,112 @@
+//
+//  Scroll animations
+//
+.scroll-element {
+  transition: all 1s ease;
+  // Text images
+  &.section-textimage1,
+  &.section-textimage2 {
+    overflow-x: hidden;
+    .textbox {
+      transform: translateY(3em);
+      transition: all 1s ease;
+      opacity: 0;
+      @media (min-width: theme('screens.lg')) {
+        transform: translateX(5rem);
+      }
+    }
+    .imagebox {
+      transform: translateY(3rem);
+      transition: all 1s ease;
+      opacity: 0;
+      @media (min-width: theme('screens.lg')) {
+        transform: translateX(-5rem);
+      }
+    }
+    &.scrolled {
+      .textbox,
+      .imagebox {
+        transform: translate(0);
+        opacity: 1;
+      }
+    }
+  }
+
+  &.section-cards {
+    transform: translateY(3rem);
+    opacity: 0;
+    &.scrolled {
+      transform: translate(0);
+      opacity: 1;
+    }
+  }
+
+  // Featured projects, cards
+  &.section-featuredposts,
+  &.section-allposts,
+  &.section-textcards {
+    .project-card {
+      transition: all 1s ease;
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+    &.scrolled {
+      .project-card {
+        opacity: 1;
+        transform: translateY(0)
+      }
+      .project-card-1 {
+        transition-delay: .3s;
+      }
+      .project-card-2 {
+        transition-delay: .6s;
+      }
+    }
+  }
+
+  // Contact section
+  &.section-contact,
+  &.section-header {
+    transform: translateY(3rem);
+    opacity: 0;
+    &.scrolled {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  // Homeheader section
+  &.section-homeheader {
+    @media (max-width: theme('screens.lg')) {
+      .textbox {
+        .infobox {
+          opacity: 0;
+          transform: translateY(3rem);
+          transition: all 1s ease;
+        }
+      }
+    }
+    @media (min-width: theme('screens.lg')) {
+      .images {
+        transition: all 1s ease;
+        transform: translateX(5rem);
+      }
+      .textbox {
+        transition: all 1s ease;
+        transform: translateX(-5rem);
+      }
+    }
+    &.scrolled {
+      .images,
+      .textbox {
+        transform: translateX(0);
+        .infobox {
+          opacity: 1;
+          transform: translate(0);
+        }
+      }
+    }
+  }
+}
+
+

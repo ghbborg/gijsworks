@@ -1,0 +1,32 @@
+2021-12-30T08:05:34+00:00 CRITICAL syntax error, unexpected '<' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 142
+
+2021-12-30T08:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function write() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:142
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): orderby_onclick(Array)
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php(1455): apply_filters('woocommerce_cat...', Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applic in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 142
+
+2021-12-30T08:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function write() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:142
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): orderby_onclick(Array)
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/includes/wc-template-functions.php(1455): apply_filters('woocommerce_cat...', Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): woocommerce_catalog_ordering('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/assets/plugins/woocommerce/templates/archive-product.php(57): do_action('woocommerce_bef...')
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/template-loader.php(106): include('/Applic in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 142
+
+2021-12-30T08:11:21+00:00 CRITICAL Cannot redeclare custom_woocommerce_catalog_orderby() (previously declared in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:170) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 219
+
+2021-12-30T08:11:21+00:00 CRITICAL Cannot redeclare custom_woocommerce_catalog_orderby() (previously declared in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:170) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 219
+
+2021-12-30T08:11:24+00:00 CRITICAL Cannot redeclare custom_woocommerce_catalog_orderby() (previously declared in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:170) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 219
+
+2021-12-30T08:11:24+00:00 CRITICAL Cannot redeclare custom_woocommerce_catalog_orderby() (previously declared in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:170) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 219
+

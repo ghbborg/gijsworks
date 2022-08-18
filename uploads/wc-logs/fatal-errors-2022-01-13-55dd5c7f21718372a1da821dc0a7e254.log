@@ -1,0 +1,1382 @@
+2022-01-13T09:50:06+00:00 CRITICAL syntax error, unexpected '"', expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/contact.php op de lijn 33
+
+2022-01-13T09:50:06+00:00 CRITICAL syntax error, unexpected '"', expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/contact.php op de lijn 33
+
+2022-01-13T13:27:42+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:46+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:46+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:47+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:47+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:51+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:51+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:51+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:51+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:57+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:57+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:57+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:27:58+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:03+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:03+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:03+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:03+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:06+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:06+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:06+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:07+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:13+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:17+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:20+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:23+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:24+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:24+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:24+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:31+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:28:34+00:00 CRITICAL Uncaught Error: Call to undefined function apply_filter() in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:167
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): converts_product_attributes_from_select_options_to_div('')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#4 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(770): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/template.php(716): load_template('/Applications/M...', true, Array)
+#7 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#8 /Applicatio in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 167
+
+2022-01-13T13:45:31+00:00 CRITICAL syntax error, unexpected '?>', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 141
+
+2022-01-13T13:45:43+00:00 CRITICAL syntax error, unexpected '?>', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 141
+
+2022-01-13T13:45:43+00:00 CRITICAL syntax error, unexpected '?>', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 141
+
+2022-01-13T13:46:05+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:06+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:08+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:12+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:13+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:15+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:16+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:21+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:21+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:25+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:25+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:28+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:46:28+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:47:06+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:47:07+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:29+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:29+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:39+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:40+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:42+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:42+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:49+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:53+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(141): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:55+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:58+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:48:58+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:01+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:01+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:04+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:06+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:09+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:09+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:11+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:11+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:14+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:22+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:24+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:27+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:49:36+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:52:17+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:52:21+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:52:25+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:52:57+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:00+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:00+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:14+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:14+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(139): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:22+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:22+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:49+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:49+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:53:53+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:03+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:03+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:07+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:17+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:21+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:21+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:42+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:42+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:46+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:49+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:52+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:53+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:56+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:59+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:54:59+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:07+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:07+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:15+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:19+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:22+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:26+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:26+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:30+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:30+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:37+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:42+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:48+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:48+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:53+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:55:53+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(147): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:56:05+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(146): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T13:56:05+00:00 CRITICAL Uncaught Error: Cannot unset string offsets in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php:94
+Stack trace:
+#0 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): misha_remove_default_sorting_options('Nate')
+#1 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(189): WP_Hook->apply_filters('date', Array)
+#2 /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php(146): apply_filters('woocommerce_cat...', 'date')
+#3 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(303): select_to_buttons('')
+#4 /Applications/MAMP/htdocs/romeijn/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /Applications/MAMP/htdocs/romeijn/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /Applications/MAMP/htdocs/romeijn/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /Applications/MAMP/htdocs/romeijn/assets/themes/master/footer.php(86): wp_footer()
+#8 /Applications/MAMP/htdocs/romeijn/wp-includes/tem in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 94
+
+2022-01-13T14:19:18+00:00 CRITICAL syntax error, unexpected '?>', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 138
+
+2022-01-13T14:19:51+00:00 CRITICAL syntax error, unexpected '.', expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 138
+

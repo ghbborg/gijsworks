@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "declaration-no-important": null,
+    "indentation": 2,
+    "selector-max-class": 6,
+    "selector-max-combinators": 6,
+    "selector-max-id": 3,
+    "selector-max-compound-selectors": 6,
+    "selector-max-type": 5,
+    "selector-no-qualifying-type": [true, { "ignore": ["attribute"] }]
+  }
+}

@@ -1,0 +1,108 @@
+2021-12-29T08:51:57+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/single.php on line 19
+
+2021-12-29T08:51:57+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/single.php on line 19
+
+2021-12-29T09:25:04+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:04+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:16+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:16+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:25+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:25+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:29+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 31
+
+2021-12-29T09:25:54+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 25
+
+2021-12-29T09:25:54+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 25
+
+2021-12-29T09:26:09+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:26:09+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:26:32+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:26:32+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:26:41+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:26:41+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:28:36+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:28:36+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:31:34+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:31:34+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:31:43+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:31:43+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 32
+
+2021-12-29T09:32:48+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 33
+
+2021-12-29T09:32:48+00:00 CRITICAL syntax error, unexpected 'id' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 33
+
+2021-12-29T09:34:15+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 37
+
+2021-12-29T09:34:16+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/sections/woocommerce/single-product.php on line 37
+
+2021-12-29T11:11:22+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:11:25+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:11:43+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:11:43+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:13+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:13+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:22+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:43+00:00 CRITICAL syntax error, unexpected 'background' (T_STRING), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:46+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:47+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:12:56+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:03+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:07+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:07+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:07+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:08+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:08+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:23+00:00 CRITICAL syntax error, unexpected '$website_settings' (T_VARIABLE), expecting ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 21
+
+2021-12-29T11:13:29+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 23
+
+2021-12-29T11:13:29+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 23
+
+2021-12-29T11:13:32+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 23
+
+2021-12-29T11:13:32+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 23
+
+2021-12-29T11:14:07+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 23
+
+2021-12-29T11:14:22+00:00 CRITICAL syntax error, unexpected ')' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 22
+
+2021-12-29T11:17:16+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php on line 45
+
+2021-12-29T14:28:40+00:00 CRITICAL syntax error, unexpected 'per_page' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 111
+
+2021-12-29T14:28:55+00:00 CRITICAL syntax error, unexpected 'per_page' (T_STRING), expecting ']' in /Applications/MAMP/htdocs/romeijn/assets/themes/master/inc/wc-functions.php op de lijn 111
+
