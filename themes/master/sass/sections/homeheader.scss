@@ -1,0 +1,29 @@
+// Homeheader
+
+.section-homeheader {
+    .changing-word {
+        position: absolute;
+        margin-left: 1rem;
+        animation: rotateWord 18s linear infinite 0s;
+        opacity: 0;
+        &::after {
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background-color: #F7A02D;
+            position: absolute;
+            content: '';
+            display: block;
+        }
+    }
+}
+
+@keyframes rotateWord {
+    0% { opacity: 0; }
+    2% { opacity: 0; transform: translateY(-30px); }
+    5% { opacity: 1; transform: translateY(0px);}
+    25% { opacity: 1; transform: translateY(0px); }
+    28% { opacity: 0; transform: translateY(30px); }
+    80% { opacity: 0; }
+    100% { opacity: 0; }
+}

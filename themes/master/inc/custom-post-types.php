@@ -11,31 +11,18 @@ if( function_exists('acf_set_options_page_title') )
 
 /* Add Projects post type */
 function create_projects_post_type() {
-	register_post_type('Assortiment', [
+	register_post_type('Projects', [
 		'labels' => [
-			'name' => __('Assortiment'),
-			'singular_name' => __('Assortiment')
+			'name' => __('Projects'),
+			'singular_name' => __('Project')
 		],
 		'public' => true,
-		'menu_icon' => 'dashicons-archive',
+		'menu_icon' => 'dashicons-grid-view',
 		'show_in_nav_menus' => true,
 		'has_archive' => true,
-		'rewrite' => array('slug' => 'assortiment'),
+		'rewrite' => array('slug' => 'projects'),
         'show_in_rest' => true,
 		'taxonomies' => array('category'),
-	]);
-
-	register_post_type('Occasions', [
-		'labels' => [
-			'name' => __('Occasions'),
-			'singular_name' => __('Occasion')
-		],
-		'public' => true,
-		'menu_icon' => 'dashicons-clipboard',
-		'show_in_nav_menus' => true,
-		'has_archive' => false,
-		'rewrite' => array('slug' => 'occasions'),
-        'show_in_rest' => true,
 	]);
 }
 

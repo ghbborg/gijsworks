@@ -8,25 +8,4 @@
     @apply font-medium;
     @apply font-display;
   }
-
-  @font-face {
-    font-family: Baskerville;
-    font-weight: 400;
-    font-style: normal;
-    src: url('../../fonts/LibreBaskerville-Regular.ttf') format('ttf');
-  }
-
-  @font-face {
-    font-family: Baskerville;
-    font-weight: 400;
-    font-style: normal;
-    src: url('../../fonts/LibreBaskerville-Bold.ttf') format('ttf');
-  }
-
-  @font-face {
-    font-family: Baskerville;
-    font-weight: 400;
-    font-style: italic;
-    src: url('../../fonts/LibreBaskerville-Italic.ttf') format('ttf');
-  }
 }

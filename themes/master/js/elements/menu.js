@@ -5,12 +5,8 @@
 // Fix height for hamburger menu & homeslider
 $(document).ready(function(){
   var hamburgerContainer  = $('.menu-hamburger-container');
-  var homeheaderContainer = $('.section-homeheader');
-  var homeHeaderHeight    = window.innerHeight;
-  var screenHeight         = window.outerHeight;
-  hamburgerContainer.css('height', screenHeight);
-  homeheaderContainer.css('height', homeHeaderHeight);
-  console.log(window.outerHeight);
+  var innerHeight         = $(window).innerHeight();
+  hamburgerContainer.css('height', innerHeight);
 })
 
 /* Hamburger menu */
@@ -35,8 +31,8 @@ var hamburgerToggled;
 
 function hamburger() {
   var hamburgerContainer  = $('.menu-hamburger-container');
-  var screenHeight         = window.innerHeight;
-  hamburgerContainer.css('height', screenHeight);
+  var innerHeight         = $(window).innerHeight();
+  hamburgerContainer.css('height', innerHeight);
   
   if (hamburgerToggled == false) {
     hamburgerToggled = true;
@@ -60,14 +56,11 @@ function hamburger() {
   }
 }
 
-window.addEventListener('resize', function(){
-    var hamburgerContainer  = $('.menu-hamburger-container');
-    var homeheaderContainer = $('.section-homeheader');
-    var screenHeight        = window.outerHeight;
-    var homeHeaderHeight    = window.innerHeight;
-    hamburgerContainer.css('height', screenHeight);
-    homeheaderContainer.css('height', screenHeight);
-});
-ht', homeHeaderHeight);
-  }
+window.addEventListener('resize', function(event){
+  var hamburgerContainer  = $('.menu-hamburger-container');
+  var homeheaderContainer = $('.section-homeheader');
+  var innerHeight         = $(window).innerHeight();
+  var homeHeaderHeight    = $(window).innerHeight()*.9;
+  hamburgerContainer.css('height', innerHeight);
+  // homeheaderContainer.css('height', homeHeaderHeight);
 });

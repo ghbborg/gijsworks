@@ -1,0 +1,59 @@
+//
+// Custom cursor
+//
+
+* {
+  cursor: none;
+}
+
+.cursor,
+.cursor2 {
+  z-index: 50;
+}
+
+.cursor {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: 1px solid white;
+  transition: all 200ms ease-out;
+  position: fixed;
+  pointer-events: none;
+  left: 0;
+  top: 0;
+  transform: translate(calc(-50% + 15px), -50%);
+  &.hover {
+    width: 65px;
+    height: 65px;
+  }
+}
+
+.cursor2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  background-color: white;
+  opacity: .3;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: width .3s, height .3s, opacity .3s;
+  &.hover {
+    opacity: .8;
+    width: 15px;
+    height: 15px;
+    &.click {
+      width: 20px;
+      height: 20px;
+    }
+  }
+  &.click {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+// .cursorinnerhover {
+//   width: 30px;
+//   height: 30px;
+// }
