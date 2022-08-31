@@ -18,6 +18,10 @@ wp_reset_postdata();
 ?>
 
 <section class="<?= $section_settings['spacing_top']; ?> <?= $section_settings['spacing_bottom']; ?> flex flex-col gap-12 lg:gap-0 lg:pl-0 lg:pr-0 section-projecthighlight lg:justify-center">
+    <h2 class="sr-only">
+        Featured projects
+    </h2>
+    
     <?php foreach($featuredContent as $i => $project) :
         $general    = $project['general_info'];
         

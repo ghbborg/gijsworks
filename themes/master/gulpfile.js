@@ -120,6 +120,7 @@ function scripts() {
       "./js/elements/homeheader.js",
       "./js/elements/scroll.js",
       "./js/elements/customcursor.js",
+      "./js/elements/form.js",
       "./js/elements/project-styles.js",
       "./js/elements/project-styles/double-phone.js",
       "./js/elements/project-styles/desktop-windows.js",

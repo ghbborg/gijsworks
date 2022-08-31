@@ -28,6 +28,12 @@ if (have_rows('structure')):
             case 'project_highlight_text':
                 include(get_template_directory() . '/sections/project-highlight_text.php');
                 break;
+            case 'small_contact':
+                include(get_template_directory() . '/sections/small-contact.php');
+                break;
+            case 'about_me':
+                include(get_template_directory() . '/sections/about-me.php');
+                break;
         }
     endwhile;
 endif; ?>

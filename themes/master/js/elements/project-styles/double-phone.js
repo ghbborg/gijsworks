@@ -51,7 +51,6 @@ function initPS_DoublePhone() {
                 phone1.css('transform', 'rotate(' + scrollDifference/100 + 'deg) translate(' + (scrollDifference/12)/16 + 'rem,-' + (scrollDifference/3)/16 +'rem) scale(' + (1 + scrollDifference/2000) + ')');
                 
                 phone2.css('transform', 'rotate(-' + scrollDifference/150 + 'deg) translate(-' + (scrollDifference/4)/16 + 'rem,-' + (scrollDifference/3)/16 +'rem) scale(' + (1 + scrollDifference/1700) + ')');
-                console.log('true');
             }
 
         })
