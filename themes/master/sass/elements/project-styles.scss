@@ -1,0 +1,88 @@
+//
+//  Project-styles
+//
+
+//
+// Double phone
+//
+.double-phone,
+.desktop-windows {
+  @media (min-width: theme('screens.lg')) {
+    height: 65rem;
+  }
+  @media (min-width: theme('screens.3xl')) {
+    height: 80rem;
+  }
+  .textbox {
+    will-change: transform;
+  }
+  .imagebox {
+    height: 40rem;
+    width: 100%;
+    .image-content {
+      -moz-box-shadow:    inset 0 0 30px 20px rgba(0,0,0, 0.1);
+      -webkit-box-shadow: inset 0 0 30px 20px rgba(0,0,0, 0.1);
+      box-shadow:         inset 0 0 30px 20px rgba(0,0,0, 0.1);
+    }
+    @media (min-width: theme('screens.lg')) {
+      height: 65rem;
+      width: 40vw;
+    }
+    @media (min-width: theme('screens.3xl')) {
+      height: 80rem;
+    }
+    // Phones!
+    .phone {
+      position: absolute;
+      width: 25rem;
+      will-change: transform;
+      @media (min-width: theme('screens.lg')) {
+        width: 80%;
+      }
+      @media (min-width: theme('screens.2xl')) {
+        width: 80%;
+      }
+      @media (min-width: theme('screens.2xl')) {
+        width: 70%;
+      }
+      &.phone-1 img {
+        transform: rotate(15deg) translate(-30%, 7.5%);
+      }
+      &.phone-2 img {
+        transform: rotate(-20deg) translate(-10%, 80%);
+      }
+    }
+
+    // Desktop windows
+    .window-container-1,
+    .window-container-2 {
+      will-change: transform;
+      box-shadow: 0 0 30px 20px rgba(0,0,0,0.2);
+      .window {
+        width: 100vw;
+        @media (min-width: theme('screens.lg')) {
+          width: 40vw;
+        }
+      }
+    }
+    .window-container-1 {
+      margin-left: 2.5rem;
+      margin-top: 2.5rem;
+      @media (min-width: theme('screens.lg')) {
+        margin-top: 5rem;
+      }
+
+    }
+    .window-container-2 {
+      margin-left: 5rem;
+      margin-top: 22.5rem;
+      @media (min-width: theme('screens.lg')) {
+        margin-top: 35rem;
+      }
+      @media (min-width: theme('screens.3xl')) {
+        margin-top: 45rem;
+      }
+    }
+
+  }
+}

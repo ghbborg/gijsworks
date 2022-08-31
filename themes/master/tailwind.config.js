@@ -10,8 +10,8 @@ module.exports = {
     // },
   theme: {
     fontFamily: {
-      sans: ["Libre Baskerville", "sans-serif"],
-      display: ['Libre Baskervilleins', 'bold'],
+      sans: ["Roboto", "sans-serif"],
+      display: ['Roboto', 'bold'],
     },
     extend: {
       fontSize: {
@@ -37,10 +37,12 @@ module.exports = {
         green: '#0A807F',
         blue: '#CDF7F5',
         pinkish: '#F7DAF2',
-        cta: "#946944",
+        cta: "#F7A02D",
         gray: "#C5C5C5",
         lightgray: "#979797",
         offwhite: '#e7e7e7',
+        black: "#1C1C1C",
+        white: "#FAF9F6",
       },
       lineHeight: {
         '12': '3rem',
@@ -105,7 +107,7 @@ module.exports = {
       screens: {
         "2lg": "1275px",
         "2xl": "1600px",
-        "3xl": "1920px",
+        "3xl": "1900px",
       },
       boxShadow: {
         link: "0 -2px 0 0 rgba(230, 60, 57, 1) inset",

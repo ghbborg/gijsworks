@@ -34,6 +34,7 @@
 <body <?php body_class(); ?>>
 
     <?php include(get_template_directory() . '/elements/navbar.php'); ?>
+    <?php include(get_template_directory() . '/elements/customcursor.php'); ?>
 
 <div class="font-light leading-loose text-white dynamic-content position-relative">
     <main role="main" id="main">

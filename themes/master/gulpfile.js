@@ -1,6 +1,6 @@
 // Gulp 4 ----------------------------------------------------------------- //
 // Gijs van der Borg
-// Last edited: 18-08-2022
+// Last edited: 4-11-2021
 // ------------------------------------------------------------------------ //
 
 "use strict";
@@ -29,7 +29,7 @@ var lintFormat = require("./.styleintrc.json");
 const stylesTasks = gulp.series(compileSass, minifyCss);
 
 // Compile SCSS into CSS
-function compileSass() {
+function compileSass() {  
   return src("./sass/*.scss")
     .pipe(sass().on("error", sass.logError))
     .pipe(dest("./css"));
@@ -115,9 +115,15 @@ function minifySVG() {
 function scripts() {
   return gulp
     .src([
-      "./js/elements/scroll.js",
       "./js/elements/menu.js",
-      "./js/elements/mobilehover.js",
+      "./js/elements/dynamic-load.js",
+      "./js/elements/homeheader.js",
+      "./js/elements/scroll.js",
+      "./js/elements/customcursor.js",
+      "./js/elements/form.js",
+      "./js/elements/project-styles.js",
+      "./js/elements/project-styles/double-phone.js",
+      "./js/elements/project-styles/desktop-windows.js",
     ])
     .pipe(sourcemaps.init({ loadMaps: true }))
     .pipe(concat("main.min.js"))
@@ -148,7 +154,7 @@ function watchTask() {
   watch("./**/*.php", series(styles, browsersyncReload));
   watch("./sass/**/*.scss", series(styles, browsersyncReload));
   watch(
-    ["./js/elements/*.js", "./js/main.js"],
+    ["./js/elements/*.js", "./js/elements/project-styles/*.js", "./js/main.js"],
     series(scripts, browsersyncReload)
   );
 }

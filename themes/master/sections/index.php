@@ -16,35 +16,23 @@ if (have_rows('structure')):
         $row_index = get_row_index();
 
         switch (get_row_layout()) {
-            case 'home_header':
+            case 'homeheader':
                 include(get_template_directory() . '/sections/homeheader.php');
                 break;
-            case 'content':
-                include(get_template_directory() . '/sections/content.php');
+            case 'display_text':
+                include(get_template_directory() . '/sections/display-text.php');
                 break;
-            case 'display':
-                include(get_template_directory() . '/sections/display.php');
+            case 'project_highlight':
+                include(get_template_directory() . '/sections/project-highlight.php');
                 break;
-            case 'services':
-                include(get_template_directory() . '/sections/services.php');
+            case 'project_highlight_text':
+                include(get_template_directory() . '/sections/project-highlight_text.php');
                 break;
-            case 'best_verkocht':
-                include(get_template_directory() . '/sections/bestverkocht.php');
+            case 'small_contact':
+                include(get_template_directory() . '/sections/small-contact.php');
                 break;
-            case 'categorie':
-                include(get_template_directory() . '/sections/categorie.php');
-                break;
-            case 'occasions':
-                include(get_template_directory() . '/sections/occasions.php');
-                break;
-            case 'service':
-                include(get_template_directory() . '/sections/service.php');
-                break;
-            case 'contact':
-                include(get_template_directory() . '/sections/contact.php');
-                break;
-            case 'table':
-                include(get_template_directory() . '/sections/table.php');
+            case 'about_me':
+                include(get_template_directory() . '/sections/about-me.php');
                 break;
         }
     endwhile;

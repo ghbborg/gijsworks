@@ -2,52 +2,129 @@
 //  Shadows
 //
 .button {
-  pointer-events: all;
-  cursor: pointer;
-  border-radius: 50px;
-  align-items: center;
-  &.cta-border {
-    border: 2px solid #0A807F;
+  a {
+    // Different styles
+    &.button-cta {
+      color: #F7A02D;
+      .button-line,
+      .button-arrow-top,
+      .button-arrow-bottom {
+        background-color: #F7A02D;
+      }
+    }
+    &.button-white {
+      color: #fff;
+      .button-line,
+      .button-arrow-top,
+      .button-arrow-bottom {
+        background-color: #fff;
+      }
+    }
+    &.button-faded {
+      color: #5D5E5D;
+      .button-line,
+      .button-arrow-top,
+      .button-arrow-bottom {
+        background-color: #5D5E5D;
+      }
+    }
+    // Hover effect
+    &:hover {
+      .button-line {
+        animation: buttonLine .4s forwards;
+      }
+      .button-arrow-top,
+      .button-arrow-bottom {
+        animation: buttonArrow .4s forwards;
+      }
+      .button-text {
+        transform: translateX(.25rem);
+      }
+    }
+  }
+
+  // Button text
+  .button-text {
+    transition: all .6s ease;
+  }
+  
+  // Line
+  .button-line-wrapper {
+    width: 2rem;
+    height: 1rem;
+  }
+  .button-line {
+    margin-top: 2px;
+    height: 2px;
+    width: 100%;
+    transition: width .3s ease;
+    animation: buttonLineReverse .3;
+  }
+
+  // Arrow definitions
+  .button-arrow {
+    position: absolute;
+    margin-top: 2px;
+    right: -2px;;
+    .button-arrow-top,
+    .button-arrow-bottom {
+      transform-origin: center;
+      height: 2px;
+      width: 0;
+      transition: width .3s ease;
+      animation: buttonArrowReverse .3s;
+    }
+    .button-arrow-top {
+      transform: rotate(45deg);
+      margin-bottom: 2.5px;
+    }
+    .button-arrow-bottom {
+      transform: rotate(-45deg);
+      margin-top: 2.5px;
+    }
   }
 }
 
-.custom-button {
-  &.button-white {
-    border: none !important;
-    padding: 0 !important;
+@keyframes buttonLine {
+  0% {
+    width: 100%;
+  }
+  50% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
   }
 }
 
-.button-underline {
-  width: fit-content;
-  transition: all .3s ease;
-  &:after {
-    transition: all .3s ease;
-    content: '';
-    display: block;
-    width: full;
-    height: 1px;
-    background-color: #000;
-    margin-top: .25rem;
-  }
-  &:hover {
-    color: #dc6c2e;
-    &:after {
-      background-color: #dc6c2e;
-    }
-  }
-  &:active {
-    color: #3d3d3d;
-    &:after {
-      background-color: #3d3d3d;
-    }
+@keyframes buttonLineReverse {
+  to {
+    width: 100%;
   }
 }
 
-.contact-button {
-  &:hover {
-    img {
-      filter: invert(1);
-    }
+@keyframes buttonArrow {
+  0% {
+    width: 0;
+    opacity: 0;
+  }
+  75% {
+    width: 0;
+    opacity: 0;
+  }
+  100% {
+    width: .5rem;
+    opacity: 1;
+  }
+}
+
+@keyframes buttonArrowReverse {
+  0% {
+    width: .5rem;
+    opacity: 1;
+  }
+  100% {
+    width: 0;
+    opacity: 0;
   }
 }

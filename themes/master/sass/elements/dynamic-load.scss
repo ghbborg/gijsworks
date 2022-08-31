@@ -1,0 +1,17 @@
+//
+//  Dynamic load
+//
+
+.dynamic-sideblock {
+  transition: all .3s ease;
+  opacity: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #1C1C1C;
+  z-index: 40;
+  pointer-events: none;
+  &.animate-sideblock {
+    opacity: 1;
+    pointer-events: all;
+  }
+}
