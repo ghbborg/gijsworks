@@ -1,0 +1,107 @@
+// Projects
+
+.section-projects {
+    .category {
+        .inner-circle {
+            width: 100%;
+            height: 100%;
+            max-width: 1rem;
+            max-height: 1rem;
+            transition: all .3s ease;
+        }
+        .text {
+            transition: all .3s ease;
+        }
+        &:hover {
+            .inner-circle {
+                background-color: rgba(255,255,255,.25);
+                max-width: 1.5rem;
+                max-height: 1.5rem;
+            }
+            .text {
+                color: rgba(255,255,255,.75);
+            }
+        }
+        &.active {
+            .inner-circle {
+                background-color: #F7A02D;
+            }
+        }
+    }
+
+    .project-wrapper {
+        max-height: 0;
+        opacity: 0;
+        transition: all .6s ease;
+        will-change: max-height;
+        overflow: hidden;
+        pointer-events: none;
+        &.active {
+            margin-top: 3rem;
+            opacity: 1;
+            max-height: 200rem;
+            pointer-events: all;
+            @media (min-width: theme('screens.lg')) {
+                margin-top: 0;
+                max-height: 65rem;
+            }
+            @media (min-width: theme('screens.3xl')) {
+                max-height: 80rem;
+            }
+        }
+    }
+}
+
+.section-project {
+    .usp {
+        .inner-circle {
+            width: 100%;
+            height: 100%;
+            max-width: 1rem;
+            max-height: 1rem;
+            transition: all .3s ease;
+        }
+        .text {
+            transition: all .3s ease;
+        }
+        &:hover {
+            .inner-circle {
+                background-color: rgba(255,255,255,.25);
+                max-width: 1.5rem;
+                max-height: 1.5rem;
+            }
+            .text {
+                color: rgba(255,255,255,.75);
+            }
+        }
+        &.active {
+            .inner-circle {
+                background-color: #F7A02D;
+            }
+        }
+    }
+
+    .double-phone-showcase {
+        .image-container {
+            width: 100vw;
+            overflow: hidden;
+            .image-wrapper {
+                display: flex;
+                align-items: center;
+                gap: 3rem;
+                width: 50000px;
+                padding: 5rem 0 5rem 5rem;
+                .phone-image {
+                    &.active {
+                        width: 30rem;
+                    }
+                    width: 20rem;
+                    img {
+                        width: fit-content;
+                        height: fit-content;
+                    }
+                }
+            }
+        }
+    }
+}

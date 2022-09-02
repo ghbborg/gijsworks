@@ -10,7 +10,7 @@ if($featuredCategory[$i][0]->slug == 'design') {
 
 ?>
 
-<div class="relative flex justify-center lg:pl-16 lg:pr-16 desktop-windows desktop-windows-<?= $i; ?>">
+<div class="relative flex justify-center lg:pl-16 lg:pr-16 project-overview desktop-windows desktop-windows-<?= $i; ?>" data-category="<?= $featuredCategory[$i][0]->slug; ?>">
     <div class="blok-md">
         <div class="flex flex-col lg:grid lg:grid-cols-2 lg:gap-16">
             <div class="order-2 pl-6 pr-6 mt-12 textbox lg:order-none lg:pl-0 lg:pr-0 lg:mt-0">
@@ -32,7 +32,7 @@ if($featuredCategory[$i][0]->slug == 'design') {
                     <?= $general['intro_text']; ?>
                 </div>
 
-                <div class="flex w-auto mt-2 button">
+                <div class="flex w-auto mt-2 button dynamic-link mobile-hover">
                     <a href="<?= $featuredLink[$i]; ?>" class="flex items-center gap-4 pt-4 pb-4 text-xl font-bold button-cta">
                         <div class="relative flex items-center button-line-wrapper">
                             <div class="button-line">

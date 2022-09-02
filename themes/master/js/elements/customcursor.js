@@ -10,15 +10,21 @@ function initCustomCursor() {
   document.addEventListener('mousemove', function(e){
     var x = e.clientX;
     var y = e.clientY;
-    cursor.style.transform = `translate3d(calc(${e.clientX}px - 50%), calc(${e.clientY}px - 50%), 0)`
-  });
-  
-  document.addEventListener('mousemove', function(e){
-    var x = e.clientX;
-    var y = e.clientY;
+    // cursor.style.transform = `translate3d(calc(${e.clientX}px - 50%), calc(${e.clientY}px - 50%), 0)`;
+
+    cursor.style.left = x + 'px';
+    cursor.style.top = y + 'px';
+
     cursorinner.style.left = x + 'px';
     cursorinner.style.top = y + 'px';
   });
+  
+  // document.addEventListener('mousemove', function(e){
+  //   var x = e.clientX;
+  //   var y = e.clientY;
+  //   cursorinner.style.left = x + 'px';
+  //   cursorinner.style.top = y + 'px';
+  // });
   
   document.addEventListener('mousedown', function(){
     cursor.classList.add('click');

@@ -3,12 +3,18 @@
 //
 
 * {
-  cursor: none;
+  @media (min-width: theme('screens.lg')) {
+    cursor: none;
+  }
 }
 
 .cursor,
 .cursor2 {
-  z-index: 50;
+  display: none;
+  @media (min-width: theme('screens.lg')) {
+    z-index: 50;
+    display: block;
+  }
 }
 
 .cursor {
@@ -21,8 +27,12 @@
   pointer-events: none;
   left: 0;
   top: 0;
-  transform: translate(calc(-50% + 15px), -50%);
+  margin-left: -25px;
+  margin-top: -25px;
+  // transform: translate(calc(-50% + 15px), -50%);
   &.hover {
+    margin-left: -32.5px;
+    margin-top: -32.5px;
     width: 65px;
     height: 65px;
   }
