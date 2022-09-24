@@ -11,7 +11,10 @@
   }
   p:not(:first-child) {
     border-top: 1px solid rgba(255,255,255, .25);
-    padding: 1.5rem 0;
+    padding: 1rem 0;
+    @media (min-width: theme('screens.lg')) {
+      padding: 1.5rem 0;
+    };
     label {
       font-size: 1.25rem;
     }
@@ -45,26 +48,33 @@
     &:-webkit-autofill:active {
       -webkit-box-shadow: 0 0 0 30px #1C1C1C inset;
       -webkit-text-fill-color:rgba(255,255,255, .75);
+      background-color: #1C1C1C !important;
+      background-clip: content-box !important;
     }
     &[aria-invalid="true"] {
-      color: rgba(255, 0, 0, 0.75);
+      color: #F7A02D;
       &::-webkit-input-placeholder { /* WebKit browsers */
-        color: rgba(255, 0, 0, 0.75) ;
+        color: #F7A02D ;
       }
       &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
       &::-moz-placeholder { /* Mozilla Firefox 19+ */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
       &:-ms-input-placeholder { /* Internet Explorer 10+ */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
     }
   }
   p:nth-child(7) {
     grid-column: span 2 / span 2;
     border-bottom: 1px solid rgba(255,255,255, .25);
+  }
+  .button {
+    @media (max-width: theme('screens.lg')) {
+      padding-top: 1rem;
+    }
   }
   .button {
     input {
@@ -90,7 +100,7 @@
   form.failed,
   form.aborted {
     .wpcf7-response-output {
-      color: rgba(255, 0, 0, 0.75) !important;
+      color: #F7A02D !important;
     }
   }
   .wpcf7-form {

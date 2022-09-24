@@ -7,7 +7,7 @@ $section_settings   = get_sub_field('section_settings');
 $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
 
 ?>
-
+ 
 <section class="<?= $section_settings['spacing_top']; ?> <?= $section_settings['spacing_bottom']; ?> flex lg:pl-16 lg:pr-16 flex-col pl-6 pr-6  section-smallcontact lg:justify-center">
     <h2 class="sr-only">Contact</h2>
     <div class="h-full lg:flex lg:justify-center">
@@ -21,7 +21,7 @@ $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
                     <?= $content['subtitle']; ?>
                 </div>
 
-                <div class="mt-12">
+                <div class="mt-8 lg:mt-12">
                     <?= do_shortcode($content['shortcode']); ?>
                 </div>
             </div>
@@ -42,7 +42,7 @@ $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
                                 <a class="block transition hover:text-cta" href="mailto:<?= $socials['email']; ?>">
                                     <?= $socials['email']; ?>
                                 </a>
-                                <a class="block transition hover:text-cta" href="tel:<?= $socials['email']; ?>">
+                                <a class="block transition hover:text-cta" href="tel:<?= $socials['number']; ?>">
                                     <?= $socials['number']; ?>
                                 </a>
                             </div>

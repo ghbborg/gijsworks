@@ -2,18 +2,7 @@
  * Project style - Desktop windows
  */
 
-function initPS_DesktopWindows() {
-    if($('.desktop-windows-1')[0]) {
-        desktopWindows(1)
-    }
-    if($('.desktop-windows-2')[0]) {
-        desktopWindows(2)
-    }
-
-}
-
 function desktopWindows(index) {
-    console.log(index);
     var fourWindows             = $('.desktop-windows-' + index + '');
     var fourWindowsPos          = fourWindows.position();
     var fourWindowsY            = fourWindowsPos.top;
@@ -22,9 +11,10 @@ function desktopWindows(index) {
     var windowContainer1        = $('.desktop-windows-' + index + ' .window-container-1');
     var windowContainer2        = $('.desktop-windows-' + index + ' .window-container-2');  
     var windowWidth             = $(window).width();
+
     $(window).scroll(function() {
-        var scrolledDistance  = $(window).scrollTop();
-        var scrollDifference  = scrolledDistance - fourWindowsY;
+        let scrolledDistance  = $(window).scrollTop();
+        let scrollDifference  = scrolledDistance - fourWindowsY;
 
         // Desktop  textbox
         if (windowWidth > 1024 && (scrolledDistance + 150) > (fourWindowsY) && scrolledDistance < (fourWindowsY + (fourWindowsHeight - fourWindowsTextHeight - 150))) {
@@ -35,19 +25,18 @@ function desktopWindows(index) {
         if (windowWidth > 1024 && (scrolledDistance + 400) > (fourWindowsY) && scrolledDistance < (fourWindowsY + (fourWindowsHeight - fourWindowsTextHeight - 150))) { 
             scrollDifference += 400;
 
-            windowContainer1.css('transform', 'translateX(-' + scrollDifference + 'px)');
-            windowContainer2.css('transform', 'translateX(-' + (scrollDifference - 400)+ 'px)');
+            windowContainer1.css('transform', 'translate3d(-' + scrollDifference + 'px, 0 , 0)');
+            windowContainer2.css('transform', 'translate3d(-' + (scrollDifference - 400)+ 'px, 0 , 0)');
         }
 
         // Mobile
         if (windowWidth < 1024 && (scrolledDistance) > (fourWindowsY-600) && (scrolledDistance < (fourWindowsY + (fourWindowsHeight - 400)))) {
             scrollDifference += 400;
 
-            windowContainer1.css('transform', 'translateX(-' + scrollDifference + 'px)');
-            windowContainer2.css('transform', 'translateX(-' + (scrollDifference - 200)+ 'px)');
+            windowContainer1.css('transform', 'translate3d(-' + scrollDifference + 'px, 0 , 0)');
+            windowContainer2.css('transform', 'translate3d(-' + (scrollDifference - 200)+ 'px, 0 , 0)');
         }
     })
-    
 
     $(window).resize(function() {
         fourWindowsPos          = fourWindows.position();
@@ -59,5 +48,3 @@ function desktopWindows(index) {
         windowWidth             = $(window).width();
     })
 }
-
-initPS_DesktopWindows();

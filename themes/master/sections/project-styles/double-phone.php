@@ -8,19 +8,37 @@ if($featuredCategory[$i][0]->slug == 'design') {
     $icon   = get_template_directory() . '/icons/svg/code.svg';
 }
 
+if (isset($featuredCategory[$i][1])) {
+    if($featuredCategory[$i][1]->slug == 'design') {
+        $icon2   = get_template_directory() . '/icons/svg/design.svg';
+    } elseif($featuredCategory[$i][1]->slug == 'development') {
+        $icon2   = get_template_directory() . '/icons/svg/code.svg';
+    }
+} else {
+    $icon2 = '';
+}
+
 ?>
 
-<div class="relative flex justify-center lg:pl-16 lg:pr-16 double-phone">
+<div class="relative flex justify-center lg:pl-16 lg:pr-16 double-phone project-overview double-phone-<?= $i; ?>" data-category="<?= $featuredCategory[$i][0]->slug; ?>">
     <div class="blok-md">
         <div class="flex flex-col lg:grid lg:grid-cols-2 lg:gap-16">
-            <div class="order-2 pl-6 pr-6 mt-12 textbox lg:order-none lg:pl-0 lg:pr-0 lg:mt-0">
+            <div class="order-2 pl-6 pr-6 mt-12 textbox lg:order-none lg:pl-0 lg:pr-0 lg:mt-0 mobile-hover">
                 <div class="flex items-center justify-between gap-4">
                     <h3 class="text-3xl font-bold lg:text-5xl 2xl:text-6xl">
                         <?= $general['title']; ?>
                     </h3>
 
-                    <div class="w-8 h-8 mt-4">
-                        <?= file_get_contents( $icon ); ?>
+                    <div class="flex items-center gap-4">
+                        <div class="flex items-center w-8 h-8 mt-4">
+                            <?= file_get_contents( $icon ); ?>
+                        </div>
+
+                        <?php if (isset($featuredCategory[$i][1])) : ?>
+                        <div class="flex items-center w-8 h-8 mt-4">
+                            <?= file_get_contents( $icon2 ); ?>
+                        </div>
+                        <?php endif; ?>
                     </div>
                 </div>
 
@@ -32,7 +50,7 @@ if($featuredCategory[$i][0]->slug == 'design') {
                     <?= $general['intro_text']; ?>
                 </div>
 
-                <div class="flex w-auto mt-2 button">
+                <div class="flex w-auto mt-2 button dynamic-link mobile-hover">
                     <a href="<?= $featuredLink[$i]; ?>" class="flex items-center gap-4 pt-4 pb-4 text-xl font-bold button-cta">
                         <div class="relative flex items-center button-line-wrapper">
                             <div class="button-line">

@@ -7,7 +7,7 @@ $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
 
 ?>
 
-<section class="flex flex-col h-screen pl-6 pr-6 lg:pl-0 lg:pr-0 section-homeheader lg:justify-center">
+<section class="relative flex flex-col h-screen pl-6 pr-6 lg:pl-0 lg:pr-0 section-homeheader lg:justify-center">
     <div class="h-full lg:pl-24 lg:pr-24 lg:flex lg:justify-center">
         <div class="flex items-center h-full blok-md lg:pl-16 lg:pr-16">
             <div class="flex flex-col xl:grid xl:grid-cols-2 xl:items-center xl:gap-12">
@@ -50,7 +50,7 @@ $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
         </div>
     </div>
 
-    <div class="lg:pl-16 lg:pr-16 lg:flex lg:justify-center ">
+    <div class="absolute bottom-0 lg:pl-16 lg:pr-16 lg:flex lg:justify-center left-6 2xl:relative">
         <div class="blok-lg">
             <a href="#secondsection" class="block w-16 h-16 p-4 pl-0 mb-8 transition svg-box animate-bounce scrolldown-arrow">
                 <?= file_get_contents( $arrow ); ?>

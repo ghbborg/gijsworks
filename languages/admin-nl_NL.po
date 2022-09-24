@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.0.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-30 12:09:20+0000\n"
+"PO-Revision-Date: 2022-08-25 13:18:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,162 +34,162 @@ msgstr "Europa/Amsterdam"
 msgid "Continue"
 msgstr "Doorgaan"
 
-#: wp-admin/about.php:334
+#: wp-admin/about.php:359
 msgid "https://make.wordpress.org/core/2022/05/03/wordpress-6-0-field-guide/"
 msgstr "https://make.wordpress.org/core/2022/05/03/wordpress-6-0-field-guide/"
 
 #. translators: %s: WordPress 6.0 Release Notes link.
-#: wp-admin/about.php:344
+#: wp-admin/about.php:369
 msgid "<a href=\"%s\">Read the WordPress 6.0 Release Notes</a> for more information on the included enhancements and issues fixed, installation information, developer notes and resources, release contributors, and the list of file changes in this release."
 msgstr "<a href=\"%s\">Lees de WordPress 6.0 releaselog</a> voor meer informatie over de opgenomen verbeteringen en opgeloste problemen, installatie informatie, ontwikkelaarsnotities en bronnen, bijdragers aan de release, en de lijst van bestandswijzigingen in deze release."
 
 #. translators: %s: WordPress 6.0 Field Guide link.
-#: wp-admin/about.php:333
+#: wp-admin/about.php:358
 msgid "Check out the latest version of the <a href=\"%s\">WordPress Field Guide</a>. It is overflowing with detailed developer notes to help you build with WordPress."
 msgstr "De laatste versie van de <a href=\"%s\">WordPress field guide</a> bekijken. Het staat vol met gedetailleerde ontwikkelaars notities om je te helpen bouwen met WordPress."
 
 #. translators: 1: Learn WordPress workshops link, 2: Learn WordPress social
 #. learning link.
-#: wp-admin/about.php:321
+#: wp-admin/about.php:346
 msgid "Explore <a href=\"%1$s\">learn.wordpress.org/&#8203;workshops</a> for quick how-to videos and lots more on new features in WordPress. Or join a live <a href=\"%2$s\">interactive online learning session</a> on a specific WordPress topic."
 msgstr "<a href=\"%1$s\">learn.wordpress.org/&#8203;​Workshops</a> verkennen voor korte instructievideo's en nog veel meer over nieuwe functies in WordPress. Of neem deel aan een live <a href=\"%2$s\">interactieve online leersessie</a> over een specifiek WordPress-onderwerp."
 
 #. translators: %s: 6.0 overview video link.
-#: wp-admin/about.php:307
+#: wp-admin/about.php:332
 msgid "See WordPress 6.0 in action! <a href=\"%s\">Watch a brief overview video</a> highlighting some of the major features debuting in WordPress 6.0."
 msgstr "Bekijk WordPress 6.0 in actie! <a href=\"%s\">Bekijk een korte overzichtsvideo</a> waarin enkele van de belangrijkste functies die debuteren in WordPress 6.0 worden uitgelicht."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:298
+#: wp-admin/about.php:323
 msgid "Learn more about WordPress %s"
 msgstr "Meer leren over WordPress %s"
 
-#: wp-admin/about.php:290
+#: wp-admin/about.php:315
 msgid "Exploring WordPress 6.0 video"
 msgstr "WordPress 6.0 video verkennen"
 
-#: wp-admin/about.php:281
+#: wp-admin/about.php:306
 msgid "Use the gap support functionality in the Gallery block to create different looks–from adding spacing between all images, to removing spacing altogether."
 msgstr "Gebruik de tussenruimte ondersteuningsfunctionaliteit in het galerij blok om verschillende looks te maken, van het toevoegen van tussenruimte tussen alle afbeeldingen, tot het helemaal verwijderen van de tussenruimte."
 
-#: wp-admin/about.php:271
+#: wp-admin/about.php:296
 msgid "Switch between stack, row, and group variations to position groups of blocks with more layout flexibility."
 msgstr "Schakel tussen stapel-, rij- en groepsvariaties om groepen van blokken met meer lay-out flexibiliteit te plaatsen."
 
-#: wp-admin/about.php:263
+#: wp-admin/about.php:288
 msgid "Control gaps, margins, typography, and more on a collection of blocks, all at once, in the Group block."
 msgstr "Beheer tussenruimtes, marges, typografie en meer op een verzameling blokken, allemaal tegelijk, in het groepen blok."
 
-#: wp-admin/about.php:252
+#: wp-admin/about.php:277
 msgid "Transparency levels for your colors allow for even more creative color options."
 msgstr "Transparantieniveaus voor je kleuren maken nog meer creatieve kleuropties mogelijk."
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:261
 msgid "New border controls offer a simpler way to set your border exactly as you like it."
 msgstr "Nieuwe rand besturingselementen bieden een eenvoudiger manier om je rand precies in te stellen zoals je het wil hebben."
 
-#: wp-admin/about.php:228
+#: wp-admin/about.php:253
 msgid "A new color panel design saves space, but still shows your options at a glance."
 msgstr "Een nieuw kleurenpaneelontwerp bespaart ruimte, maar toont toch je opties in één oogopslag."
 
-#: wp-admin/about.php:216
+#: wp-admin/about.php:241
 msgid "Some highlights for 6.0 include:"
 msgstr "Enkele highlights voor 6.0 zijn:"
 
-#: wp-admin/about.php:215
+#: wp-admin/about.php:240
 msgid "Design tools grow more powerful and intuitive with each release."
 msgstr "De ontwerpgereedschappen worden met elke release krachtiger en intuïtiever."
 
-#: wp-admin/about.php:212
+#: wp-admin/about.php:237
 msgid "Additional Design Tools"
 msgstr "Aanvullende ontwerpgereedschappen"
 
-#: wp-admin/about.php:202
+#: wp-admin/about.php:227
 msgid "Now you can lock your blocks. Choose to disable the option to move a block, remove a block, or both. This simplifies project handover, allowing your clients to unleash their creativity without worrying about accidentally breaking their site in the process."
 msgstr "Nu kun je je blokken vergrendelen. Kies ervoor om de optie om een blok te verplaatsen, een blok te verwijderen, of beide uit te schakelen. Dit vereenvoudigt de overdracht van projecten, zodat je klanten hun creativiteit de vrije loop kunnen laten zonder zich zorgen te hoeven maken over het per ongeluk kapotmaken van hun site tijdens het proces."
 
-#: wp-admin/about.php:199
+#: wp-admin/about.php:224
 msgid "Block Locking Controls"
 msgstr "Blok vergrendelen besturingselementen"
 
-#: wp-admin/about.php:185
+#: wp-admin/about.php:210
 msgid "New keyboard shortcuts enable you to select multiple blocks from the list view, modify them in bulk, and drag-and-drop them within the list. List View can be opened and closed easily; it comes collapsed by default and it automatically expands to the current selection whenever you select a block."
 msgstr "Nieuwe sneltoetsen stellen je in staat om meerdere blokken uit de lijstweergave te selecteren, ze in bulk te wijzigen, en ze binnen de lijst te verslepen. De lijstweergave kan gemakkelijk worden geopend en gesloten; ze is standaard samengevouwen en wordt automatisch uitgevouwen tot de huidige selectie wanneer je een blok selecteert."
 
-#: wp-admin/about.php:182
+#: wp-admin/about.php:207
 msgid "Better List View"
 msgstr "Betere lijstweergave"
 
 #. translators: %s Working with Patterns dev note link.
-#: wp-admin/about.php:171
+#: wp-admin/about.php:196
 msgid "Patterns will now appear when you need them in even more places, like in the quick inserter or when creating a new header or footer. If you&#8217;re a block theme author, you can even <a href=\"%s\">register patterns from the Pattern Directory using <code>theme.json</code></a>, enabling you to prioritize specific patterns that are most helpful to your theme&#8217;s users."
 msgstr "Patronen zullen nu op nog meer plaatsen verschijnen wanneer je ze nodig hebt, zoals in de snelle invoegtoepassing of bij het maken van een nieuwe header of footer. Als je een blokthema auteur bent, kun je zelfs <a href=\"%s\">patronen registreren vanuit de patroon directory met behulp van <code>theme.json</code></a>, zodat je prioriteit kunt geven aan specifieke patronen die het meest nuttig zijn voor je thema gebruikers."
 
-#: wp-admin/about.php:165
+#: wp-admin/about.php:190
 msgid "Integrated Patterns"
 msgstr "Geïntegreerde patronen"
 
-#: wp-admin/about.php:155
+#: wp-admin/about.php:180
 msgid "The query block supports filtering on multiple authors, support for custom taxonomies, and support for customizing what is shown when there are no results."
 msgstr "Het queryblok ondersteunt filteren op meerdere auteurs, ondersteuning voor aangepaste taxonomieën, en ondersteuning voor het aanpassen van wat er wordt getoond als er geen resultaten zijn."
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:174
 msgid "While editing a template, at the root, or between blocks, the quick inserter shows you patterns and template parts to help you work faster and discover new layout options."
 msgstr "Tijdens het bewerken van een template, aan de basis of tussen blokken, toont de snelle invoegtoepassing je patronen en template-onderdelen om je te helpen sneller te werken en nieuwe lay-out-opties te ontdekken."
 
-#: wp-admin/about.php:143
+#: wp-admin/about.php:168
 msgid "New featured image sizing controls make it easier to get the results you want."
 msgstr "Nieuwe besturingselementen voor het wijzigen van de grootte van uitgelichte afbeeldingen, maken het eenvoudiger om de resultaten te krijgen die je wenst."
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:167
 msgid "Featured images can be used in the cover block."
 msgstr "Uitgelichte afbeeldingen kunnen gebruikt worden in het omslagafbeeldingsblok."
 
-#: wp-admin/about.php:132
+#: wp-admin/about.php:157
 msgid "WordPress 6.0 includes five new template options: author, date, categories, tag, and taxonomy. These additional templates provide greater flexibility for content creators. Tailor each with the tools you already know or with the following new options in this release."
 msgstr "WordPress 6.0 bevat vijf nieuwe template-opties: auteur, datum, categorieën, tag en taxonomie. Deze extra templates bieden meer flexibiliteit voor makers van inhoud. Pas ze aan met de gereedschappen die je al kent of met de volgende nieuwe opties in deze release."
 
-#: wp-admin/about.php:129
+#: wp-admin/about.php:154
 msgid "More Template Choices"
 msgstr "Meer template keuzes"
 
-#: wp-admin/about.php:115
+#: wp-admin/about.php:140
 msgid "Block themes now include the option to contain multiple style variations. This expands the new Style system even further and enables shortcuts to switch the look and feel of your site all within a single theme. You can change both the available settings, like the font weight, and the style options, like the default color palette. Change the look and feel of your site with just a few clicks."
 msgstr "Blokthema's hebben nu de optie om meerdere stijlvariaties te bevatten. Dit breidt het nieuwe stijlsysteem nog verder uit en maakt het mogelijk om via shortcuts het uiterlijk van je site te veranderen, allemaal binnen één thema. Je kunt zowel de beschikbare instellingen veranderen, zoals het gewicht van het lettertype, als de stijlopties, zoals het standaard kleurenpalet. Verander het uiterlijk en de uitstraling van je site met slechts een paar klikken."
 
-#: wp-admin/about.php:112
+#: wp-admin/about.php:137
 msgid "Style Switching"
 msgstr "Wisselen van stijl"
 
-#: wp-admin/about.php:104
+#: wp-admin/about.php:129
 msgid "Make tag clouds and social icons even more appealing with updated settings and controls, and a new outline style for the tag cloud."
 msgstr "Maak tag clouds en sociale pictogrammen nog aantrekkelijker met geüpdate instellingen en bedieningselementen, en een nieuwe omtrekstijl voor de tag cloud."
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:128
 msgid "Create customized buttons and any new buttons you make will retain the style customizations automatically."
 msgstr "Maak aangepaste knoppen en alle nieuwe knoppen die je maakt zullen de stijlaanpassingen automatisch behouden."
 
-#: wp-admin/about.php:102
+#: wp-admin/about.php:127
 msgid "Keep existing styles when you transform some blocks from one kind to another—from a Paragraph block to a Code block, for instance."
 msgstr "Behoud bestaande stijlen wanneer je bepaalde blokken transformeert van de ene soort naar de andere - bijvoorbeeld van een paragraaf blok naar een code blok."
 
-#: wp-admin/about.php:101
+#: wp-admin/about.php:126
 msgid "Type two open brackets <code>[[</code> to quickly access the link menu."
 msgstr "Typ twee haakjes open <code>[[</code> om snel toegang te krijgen tot het linkmenu."
 
-#: wp-admin/about.php:100
+#: wp-admin/about.php:125
 msgid "Select text across multiple blocks and edit it all at once."
 msgstr "Selecteer tekst in meerdere blokken en bewerk deze in één keer."
 
-#: wp-admin/about.php:97
+#: wp-admin/about.php:122
 msgid "Writing improvements abound, whether you&#8217;re writing a brand new post or adding elements to an existing page. Explore more ways to streamline your content creation process, including:"
 msgstr "Er zijn genoeg schrijf verbeteringen, of je nu een geheel nieuw bericht schrijft of elementen toevoegt aan een bestaande pagina. Ontdek meer manieren om je proces voor het maken van inhoud te stroomlijnen, waaronder:"
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:119
 msgid "Enhanced Writing Experience"
 msgstr "Verbeterde schrijfervaring"
 
-#: wp-admin/about.php:83
+#: wp-admin/about.php:108
 msgid "WordPress 6.0 includes more than 500 enhancements and 400 bug fixes. This page highlights several key advancements aimed at making your WordPress content-creating and site-building experience more feature-rich and intuitive. You will also find resources for developers and anyone wanting a deeper understanding of WordPress."
 msgstr "WordPress 6.0 bevat meer dan 500 verbeteringen en 400 bug fixes. Deze pagina belicht een aantal belangrijke verbeteringen die erop gericht zijn je ervaring met het maken van inhoud en het bouwen van sites in WordPress nog rijker aan functies en intuïtiever te maken. Je vindt er ook hulpmiddelen voor ontwikkelaars en voor iedereen die WordPress beter wil leren begrijpen."
 
@@ -232,7 +232,7 @@ msgstr "Instellingen opslaan is mislukt."
 
 #: wp-admin/options-privacy.php:192
 msgid "After your Privacy Policy page is set, you should edit it."
-msgstr "Nadat je privacybeleid-pagina is ingesteld, moet je deze bewerken."
+msgstr "Nadat je privacybeleid pagina is ingesteld, moet je deze bewerken."
 
 #. translators: 1: .htaccess, 2: Documentation URL, 3: Ctrl + A, 4: ⌘ + A
 #: wp-admin/options-permalink.php:429
@@ -506,7 +506,7 @@ msgstr "Dit scherm bevat suggesties om je te helpen je eigen privacybeleid te sc
 
 #: wp-admin/options-privacy.php:37
 msgid "The Privacy screen lets you either build a new privacy-policy page or choose one you already have to show."
-msgstr "In het Privacy scherm kun je een nieuwe privacybeleidspagina maken of er een kiezen die je al hebt om te tonen."
+msgstr "In het Privacy scherm kun je een nieuwe privacybeleid pagina maken of er een kiezen die je al hebt om te tonen."
 
 #: wp-admin/options-discussion.php:61
 msgid "Individual posts may override these settings. Changes here will only be applied to new posts."
@@ -1157,7 +1157,7 @@ msgstr "Nieuw applicatie wachtwoord toevoegen"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "Vereist om een applicatie wachtwoord aan te maken, maar niet om de gebruiker te updaten."
 
-#: wp-admin/about.php:361
+#: wp-admin/about.php:386
 msgid "Go to Updates"
 msgstr "Ga naar updates"
 
@@ -1617,7 +1617,7 @@ msgstr "Maximale toegestane grootte van berichtgegevens"
 #: wp-admin/includes/class-wp-debug-data.php:551
 #: wp-admin/includes/class-wp-site-health.php:2333
 msgid "File uploads"
-msgstr "Uploads van bestanden"
+msgstr "Bestand uploads"
 
 #: wp-admin/includes/class-wp-debug-data.php:534
 msgid "File upload settings"
@@ -2310,7 +2310,7 @@ msgstr[1] "Kijk naar de <strong>%1$d items</strong> op het <a href=\"%2$s\">Site
 
 #: wp-admin/includes/dashboard.php:1952
 msgid "Your site&#8217;s health is looking good, but there are still some things you can do to improve its performance and security."
-msgstr "De sitediagnose ziet er goed uit, maar er zijn nog steeds een paar punten die je kunt uitvoeren om de snelheid en beveiliging te verbeteren."
+msgstr "Je sitediagnose ziet er goed uit, maar er zijn nog steeds een paar dingen die je kunt doen om zijn snelheid en beveiliging te verbeteren."
 
 #: wp-admin/includes/dashboard.php:1944
 msgid "Great job! Your site currently passes all site health checks."
@@ -4513,8 +4513,9 @@ msgctxt "plugin"
 msgid "Cannot Install"
 msgstr "Kan niet installeren"
 
+#. translators: %s: WordPress version
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:62 wp-admin/about.php:347
+#: wp-admin/about.php:62 wp-admin/about.php:87 wp-admin/about.php:372
 #: wp-admin/includes/update.php:302 wp-admin/index.php:119
 #: wp-admin/install.php:238 wp-admin/update-core.php:94 wp-admin/upgrade.php:80
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
@@ -5217,7 +5218,7 @@ msgstr "Een privacybeleid pagina selecteren"
 
 #: wp-admin/options-privacy.php:279
 msgid "Change your Privacy Policy page"
-msgstr "Privacybeleidspagina wijzigen"
+msgstr "Privacybeleidpagina wijzigen"
 
 #. translators: 1: URL to edit Privacy Policy page, 2: URL to view Privacy
 #. Policy page.
@@ -6057,7 +6058,7 @@ msgstr "Herhalen"
 #: wp-admin/network.php:83 wp-admin/network/settings.php:65
 #: wp-admin/network/themes.php:326 wp-admin/network/upgrade.php:33
 msgid "<a href=\"https://wordpress.org/support/\">Support</a>"
-msgstr "<a href=\"https://nl.wordpress.org/support/\">Ondersteuningsforum</a>"
+msgstr "<a href=\"https://nl.wordpress.org/support/\">Ondersteuning</a>"
 
 #. translators: %s: Number of failed updates.
 #: wp-admin/includes/update.php:910
@@ -6891,7 +6892,7 @@ msgid "(Currently set to: %s)"
 msgstr "(Nu ingesteld op: %s)"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:385
+#: wp-admin/about.php:410
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>Versie %s</strong> heeft één beveiligingsprobleem opgelost."
 
@@ -6903,15 +6904,15 @@ msgstr "https://en.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Profielfoto"
 
-#: wp-admin/about.php:42 wp-admin/about.php:382
+#: wp-admin/about.php:42 wp-admin/about.php:407
 msgid "Maintenance and Security Releases"
 msgstr "Onderhoud en beveiliging releases"
 
-#: wp-admin/about.php:379
+#: wp-admin/about.php:404
 msgid "Security Releases"
 msgstr "Beveiligingsreleases"
 
-#: wp-admin/about.php:376
+#: wp-admin/about.php:401
 msgid "Maintenance Releases"
 msgstr "Onderhoudsreleases"
 
@@ -8310,7 +8311,7 @@ msgstr "Status bewerken"
 #: wp-admin/network/site-new.php:33 wp-admin/network/sites.php:47
 #: wp-admin/network/user-new.php:30 wp-admin/network/users.php:243
 msgid "<a href=\"https://wordpress.org/support/forum/multisite/\">Support Forums</a>"
-msgstr "<a href=\"https://nl.forums.wordpress.org/\">NL supportforums</a>"
+msgstr "<a href=\"https://nl.wordpress.org/support/forums/\">Ondersteuningsforums</a>"
 
 #. translators: %s: https://wordpress.org
 #: wp-admin/admin-footer.php:37
@@ -10226,15 +10227,18 @@ msgstr "Vul het e-mailadres in van een bestaande gebruiker op dit netwerk om een
 msgid "Show Toolbar when viewing site"
 msgstr "Toolbar tonen tijdens bekijken van de site"
 
+#. translators: %s: HelpHub URL
 #. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:59 wp-admin/about.php:408
+#: wp-admin/about.php:59 wp-admin/about.php:84 wp-admin/about.php:433
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Voor meer informatie, bekijk <a href=\"%s\">de versie opmerkingen</a>."
 
+#. translators: 1: WordPress version number, 2: plural number of bugs. More
+#. than one security issue.
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:402
+#: wp-admin/about.php:47 wp-admin/about.php:427
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> heeft enkele beveiligingsproblemen verholpen en %2$s bug opgelost."
@@ -10242,33 +10246,33 @@ msgstr[1] "<strong>Versie %1$s</strong> heeft enkele beveiligingsproblemen verho
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:396
+#: wp-admin/about.php:421
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> loste een beveiligingsprobleem op en loste %2$s bug op."
 msgstr[1] "<strong>Versie %1$s</strong> loste een beveiligingsprobleem op en loste %2$s bugs op."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:47 wp-admin/about.php:390
+#: wp-admin/about.php:72 wp-admin/about.php:415
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> bevat %2$s bugfix."
 msgstr[1] "<strong>Versie %1$s</strong> bevat %2$s bugfixes."
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:387
+#: wp-admin/about.php:412
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>Versie %s</strong> loste enkele beveiligingsproblemen op."
 
-#: wp-admin/about.php:381
+#: wp-admin/about.php:406
 msgid "Maintenance and Security Release"
 msgstr "Onderhoud en beveiliging release"
 
-#: wp-admin/about.php:378
+#: wp-admin/about.php:403
 msgid "Security Release"
 msgstr "Beveiligingsrelease"
 
-#: wp-admin/about.php:375
+#: wp-admin/about.php:400
 msgid "Maintenance Release"
 msgstr "Onderhoudsrelease"
 
@@ -10556,15 +10560,15 @@ msgid "Because this is a multisite installation, you may add accounts that alrea
 msgstr "Omdat dit een multisite installatie is, kun je accounts toevoegen die al bestaan op het netwerk door een gebruikersnaam of e-mail te specificeren en een rol toe te wijzen. Voor meer opties, zoals een wachtwoord instellen moet je een netwerkbeheerder zijn en de hover link onder een bestaande gebruiksnaam klikken om het gebruikersprofiel te bewerken via Netwerk Beheer -> Alle gebruikers."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:77
+#: wp-admin/about.php:102
 msgid "Welcome to WordPress %s"
 msgstr "Welkom bij WordPress %s"
 
-#: wp-admin/about.php:364
+#: wp-admin/about.php:389
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ga naar Dashboard &rarr; Home"
 
-#: wp-admin/about.php:361
+#: wp-admin/about.php:386
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Ga naar Dashboard &rarr; Updates"
 
@@ -11030,7 +11034,7 @@ msgstr "Netwerk instellen"
 
 #: wp-admin/menu.php:346
 msgid "Available Tools"
-msgstr "Beschikbare hulpmiddelen"
+msgstr "Beschikbare gereedschappen"
 
 #: wp-admin/includes/credits.php:104
 msgctxt "Translate this to be the equivalent of English Translators in your language for the credits page Translators section"
@@ -11662,7 +11666,7 @@ msgstr "Je kunt een reactie bewerken mocht dat nodig zijn. Dit kan handig zijn b
 #. translators: %s: Documentation URL.
 #: wp-admin/options-reading.php:34
 msgid "You can also control the display of your content in RSS feeds, including the maximum number of posts to display and whether to show full text or an excerpt. <a href=\"%s\">Learn more about feeds</a>."
-msgstr "Je kunt ook de weergave van je inhoud in RSS feeds besturen , waaronder het maximum aantal te tonen berichten en/of er volledige tekst of een samenvatting moet worden getoond. <a href=\"%s\">Meer informatie over feeds</a>."
+msgstr "Je kunt ook de weergave van je inhoud in RSS-feeds regelen, inclusief het maximale aantal berichten dat moet worden weergegeven en of er volledige tekst of een samenvatting moet worden getoond. <a href=\"%s\">Meer informatie over feeds</a>."
 
 #: wp-admin/options-reading.php:26
 msgid "This screen contains the settings that affect the display of your content."
@@ -12335,7 +12339,7 @@ msgstr "WordPress updates"
 msgid "Edit menu item"
 msgstr "Menu-item bewerken"
 
-#: wp-admin/about.php:364 wp-admin/includes/network.php:148
+#: wp-admin/about.php:389 wp-admin/includes/network.php:148
 msgid "Go to Dashboard"
 msgstr "Naar het dashboard"
 

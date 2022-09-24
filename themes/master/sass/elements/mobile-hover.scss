@@ -2,35 +2,17 @@
 //  Mobile hover simulation
 //
 @media (max-width: theme('screens.lg')) {
-  .mobile-hover {
-    &.exemplaar {
-      &.hovered {
-        .exemplaar-border {
-          div {
-              transform: scale(.80) !important;
-          }
-        }
-        .exemplaar-image {
-          transform: scale(1) !important;
-        }
+  .button.mobile-hover {
+    &.hovered {
+      .button-line {
+        animation: buttonLine .4s forwards;
       }
-    }
-    &.occasion {
-      &.hovered {
-        .occasion-image {
-          background-size: 102.5%;
-        }
+      .button-arrow-top,
+      .button-arrow-bottom {
+        animation: buttonArrow .4s forwards;
       }
-    }
-    &.service {
-      &.hovered {
-        .service-gradient {
-          max-height: 50%;
-          opacity: 100%;
-        }
-        .service-arrow {
-          opacity: 100%;
-        }
+      .button-text {
+        transform: translateX(.25rem);
       }
     }
   }

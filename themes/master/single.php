@@ -13,10 +13,8 @@ get_header();
 $post_type = get_post_type();
 
 
-if($post_type == 'assortiment' || $post_type == 'occasions') :
-	include(get_template_directory() . '/sections/exemplaar.php');
-elseif($post_type == 'blogs') :
-	include(get_template_directory() . '/sections/blog.php');
+if($post_type == 'projects') :
+	include(get_template_directory() . '/sections/project.php');
 endif;
 
 get_footer(); ?>

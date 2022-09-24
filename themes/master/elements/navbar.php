@@ -9,7 +9,7 @@ $svg2 = get_template_directory() . "/icons/svg/agenda.svg";
     <div class="dynamic-partialblock transition-lg" style="background-color: #ff0000"></div>
 </div>
 
-<header class="fixed top-0 z-40 flex justify-center w-screen lg:pl-16 lg:pr-16" id="navbar">
+<header class="fixed top-0 z-40 flex justify-center w-screen lg:pl-16 lg:pr-16 nav-transparent" id="navbar">
     <div class="relative flex items-center justify-between w-full pt-6 pb-6 pl-6 pr-6 blok-lg lg:p-0">
         <h2 class="z-30 flex items-center mb-0">
             <a class="transition navbar-brand" rel="home" href="<?= esc_url( home_url( '/' ) ); ?>">

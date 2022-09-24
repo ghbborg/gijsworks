@@ -7,7 +7,7 @@ var metaTitle, $page, pageName, currentPage, target, thisPage, nextPage, nextPag
 var loading = false;
 var initialLoaded = true;
 var timer = 0;
-var samePageDash = 4;
+var samePageDash = 3;
 var navLink  = $('.menu-item')
 
 //-------------- Dynamic clicks --------------//
@@ -16,7 +16,7 @@ $(document).on('click','.dynamic-link a, .nav-link', function(event){
     nextPage = this.getAttribute('href');
 
     //Check if HREF target is on the same page
-    if(nextPage != null && thisPage.split('/')[samePageDash] != nextPage.split('/')[samePageDash]) {
+    if(nextPage != null && thisPage.split('/')[samePageDash] != nextPage.split('/')[samePageDash] || thisPage.includes('projects')) {
         event.preventDefault();
 
         if(!loading){
@@ -124,11 +124,14 @@ function dynamicLoad(target, interactedBack, initialLoaded){
 function initPage(pageName, initialLoaded){
     if (initialLoaded == false) {
 
+        initMenu();
         initHomeHeader();
         initCustomCursor();
+        initMobileHover();
         initScroll();
-        initPS_DoublePhone();
-        initPS_DesktopWindows();
+        initProjects();
+        initProjectStyles();
+        initProject();
 
         $('.navbar .menu').html(pageName);
         $('.menu-item').removeClass('active');

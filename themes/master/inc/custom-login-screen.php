@@ -5,17 +5,17 @@ function my_login_logo() { ?>
     <style type="text/css">
         #login h1 a, .login h1 a {
             background-image: url(<?php echo content_url().'/media/wordpress-login-logo.png' ?>);
-            margin-bottom: 25%;
-            width:70%;
+            margin-bottom: 10%;
+            width:50%;
             background-size: contain;
             background-repeat: no-repeat;
         }
         body.login{
-            background-color: #000;
+            background-color: #1C1C1C;
             color:
         }
         .login #wp-submit{
-            background-color:#111;
+            background-color:#1C1C1C;
             border: 1px solid #fff;
             box-shadow:none;
             text-shadow:none;
@@ -23,12 +23,12 @@ function my_login_logo() { ?>
             font-weight:bold;
         }
         .login .message, .login #login_error{
-            background-color:#000!important;
+            background-color:#1C1C1C!important;
             color:#fff;
             border-color:#fff!important;
         }
         .login #login_error a{
-            color:#cfb53b;
+            color:#F7A02D;
         }
         .login .input, .login .input:focus{
             background-color:transparent!important;
@@ -46,7 +46,7 @@ function my_login_logo() { ?>
         }
 
         .login #loginform{
-            background-color: #111;
+            background-color: #1C1C1C;
             color: #fff !important;
             border-radius:10px;
         }
@@ -60,7 +60,7 @@ function my_login_logo() { ?>
             color:white;
         }
         #lostpasswordform {
-            background: #111;
+            background: #1C1C1C;
             border-radius: 10px;
             border: 1px solid #fff;;
             color: white;
