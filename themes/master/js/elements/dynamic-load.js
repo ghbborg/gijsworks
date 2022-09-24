@@ -131,6 +131,7 @@ function initPage(pageName, initialLoaded){
         initScroll();
         initProjects();
         initProjectStyles();
+        initProject();
 
         $('.navbar .menu').html(pageName);
         $('.menu-item').removeClass('active');

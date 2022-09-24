@@ -42,7 +42,7 @@ $arrow              = get_template_directory() . '/icons/svg/arrow-d-w.svg';
                                 <a class="block transition hover:text-cta" href="mailto:<?= $socials['email']; ?>">
                                     <?= $socials['email']; ?>
                                 </a>
-                                <a class="block transition hover:text-cta" href="tel:<?= $socials['email']; ?>">
+                                <a class="block transition hover:text-cta" href="tel:<?= $socials['number']; ?>">
                                     <?= $socials['number']; ?>
                                 </a>
                             </div>

@@ -8,6 +8,16 @@ if($featuredCategory[$i][0]->slug == 'design') {
     $icon   = get_template_directory() . '/icons/svg/code.svg';
 }
 
+if (isset($featuredCategory[$i][1])) {
+    if($featuredCategory[$i][1]->slug == 'design') {
+        $icon2   = get_template_directory() . '/icons/svg/design.svg';
+    } elseif($featuredCategory[$i][1]->slug == 'development') {
+        $icon2   = get_template_directory() . '/icons/svg/code.svg';
+    }
+} else {
+    $icon2 = '';
+}
+
 ?>
 
 <div class="relative flex justify-center lg:pl-16 lg:pr-16 double-phone project-overview double-phone-<?= $i; ?>" data-category="<?= $featuredCategory[$i][0]->slug; ?>">
@@ -19,8 +29,16 @@ if($featuredCategory[$i][0]->slug == 'design') {
                         <?= $general['title']; ?>
                     </h3>
 
-                    <div class="w-8 h-8 mt-4">
-                        <?= file_get_contents( $icon ); ?>
+                    <div class="flex items-center gap-4">
+                        <div class="flex items-center w-8 h-8 mt-4">
+                            <?= file_get_contents( $icon ); ?>
+                        </div>
+
+                        <?php if (isset($featuredCategory[$i][1])) : ?>
+                        <div class="flex items-center w-8 h-8 mt-4">
+                            <?= file_get_contents( $icon2 ); ?>
+                        </div>
+                        <?php endif; ?>
                     </div>
                 </div>
 

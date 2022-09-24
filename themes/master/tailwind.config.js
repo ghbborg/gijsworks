@@ -1,13 +1,13 @@
 module.exports = {
   darkMode: false,
-    // purge: {
-    //   enabled: true,
-    //   content: [
-    //     "../**.php",
-    //     "../**/**.php",
-    //     "./src/js/**.js",
-    //   ]
-    // },
+    purge: {
+      enabled: true,
+      content: [
+        "../**.php",
+        "../**/**.php",
+        "./src/js/**.js",
+      ]
+    },
   theme: {
     fontFamily: {
       sans: ["Roboto", "sans-serif"],

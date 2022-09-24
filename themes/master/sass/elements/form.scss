@@ -52,18 +52,18 @@
       background-clip: content-box !important;
     }
     &[aria-invalid="true"] {
-      color: rgba(255, 0, 0, 0.75);
+      color: #F7A02D;
       &::-webkit-input-placeholder { /* WebKit browsers */
-        color: rgba(255, 0, 0, 0.75) ;
+        color: #F7A02D ;
       }
       &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
       &::-moz-placeholder { /* Mozilla Firefox 19+ */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
       &:-ms-input-placeholder { /* Internet Explorer 10+ */
-        color: rgba(255, 0, 0, 0.75);
+        color: #F7A02D;
       }
     }
   }
@@ -100,7 +100,7 @@
   form.failed,
   form.aborted {
     .wpcf7-response-output {
-      color: rgba(255, 0, 0, 0.75) !important;
+      color: #F7A02D !important;
     }
   }
   .wpcf7-form {

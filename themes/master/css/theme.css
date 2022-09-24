@@ -172,27 +172,27 @@
 }
 .wpcf7 input[aria-invalid=true],
 .wpcf7 textarea[aria-invalid=true] {
-  color: rgba(255, 0, 0, 0.75);
+  color: #F7A02D;
 }
 .wpcf7 input[aria-invalid=true]::-webkit-input-placeholder,
 .wpcf7 textarea[aria-invalid=true]::-webkit-input-placeholder {
   /* WebKit browsers */
-  color: rgba(255, 0, 0, 0.75);
+  color: #F7A02D;
 }
 .wpcf7 input[aria-invalid=true]:-moz-placeholder,
 .wpcf7 textarea[aria-invalid=true]:-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
-  color: rgba(255, 0, 0, 0.75);
+  color: #F7A02D;
 }
 .wpcf7 input[aria-invalid=true]::-moz-placeholder,
 .wpcf7 textarea[aria-invalid=true]::-moz-placeholder {
   /* Mozilla Firefox 19+ */
-  color: rgba(255, 0, 0, 0.75);
+  color: #F7A02D;
 }
 .wpcf7 input[aria-invalid=true]:-ms-input-placeholder,
 .wpcf7 textarea[aria-invalid=true]:-ms-input-placeholder {
   /* Internet Explorer 10+ */
-  color: rgba(255, 0, 0, 0.75);
+  color: #F7A02D;
 }
 .wpcf7 p:nth-child(7) {
   grid-column: span 2/span 2;
@@ -221,7 +221,7 @@
 .wpcf7 form.unaccepted .wpcf7-response-output,
 .wpcf7 form.failed .wpcf7-response-output,
 .wpcf7 form.aborted .wpcf7-response-output {
-  color: rgba(255, 0, 0, 0.75) !important;
+  color: #F7A02D !important;
 }
 @media (min-width: theme("screens.lg")) {
   .wpcf7 .wpcf7-form {
@@ -1129,24 +1129,104 @@ section ul li {
 .section-project .usp.active .inner-circle {
   background-color: #F7A02D;
 }
-.section-project .double-phone-showcase .image-container {
+.section-project .showcase.project-desktop-windows .phone-image div img {
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+}
+@media (min-width: theme("screens.lg")) {
+  .section-project .showcase.project-desktop-windows .phone-image.active {
+    width: 100% !important;
+  }
+  .section-project .showcase.project-desktop-windows .phone-image.active div {
+    width: 100% !important;
+  }
+  .section-project .showcase.project-desktop-windows .phone-image div {
+    width: 50% !important;
+  }
+}
+.section-project .showcase .image-container {
   width: 100vw;
+  height: 55rem;
   overflow: hidden;
 }
-.section-project .double-phone-showcase .image-container .image-wrapper {
-  display: flex;
-  align-items: center;
+@media (max-width: theme("screens.lg")) {
+  .section-project .showcase .image-container {
+    height: 45rem;
+  }
+}
+.section-project .showcase .image-container .slider-button {
+  pointer-events: all;
+  transition: all 0.3s ease;
+}
+.section-project .showcase .image-container .slider-button div {
+  transition: all 0.3s ease;
+  background-size: 0.6rem;
+  background-repeat: no-repeat;
+  background-position: 45%;
+  background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg id='Layer_2' data-name='Layer 2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10.75 20.08'%3E%3Cdefs%3E%3Cstyle%3E .cls-1 %7B fill: none; stroke: %23fff; stroke-miterlimit: 10; %7D %3C/style%3E%3C/defs%3E%3Cg id='home'%3E%3Cpolyline class='cls-1' points='10.39 .35 .71 10.04 10.39 19.72'/%3E%3C/g%3E%3C/svg%3E");
+}
+.section-project .showcase .image-container .slider-button.active div {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+.section-project .showcase .image-container .image-wrapper {
   gap: 3rem;
-  width: 50000px;
-  padding: 5rem 0 5rem 5rem;
+  padding: 5rem;
+  height: 100%;
+  will-change: transform;
 }
-.section-project .double-phone-showcase .image-container .image-wrapper .phone-image {
-  width: 20rem;
+.section-project .showcase .image-container .image-wrapper.slide-transition {
+  transition: all 0.3s ease;
 }
-.section-project .double-phone-showcase .image-container .image-wrapper .phone-image.active {
-  width: 30rem;
+@media (max-width: theme("screens.lg")) {
+  .section-project .showcase .image-container .image-wrapper {
+    padding: 0;
+    gap: 0;
+    justify-content: flex-start;
+    width: 50000px;
+    margin-left: 15vw;
+  }
+  .section-project .showcase .image-container .image-wrapper .phone-image {
+    width: 70vw !important;
+  }
 }
-.section-project .double-phone-showcase .image-container .image-wrapper .phone-image img {
-  width: fit-content;
-  height: fit-content;
+.section-project .showcase .image-container .image-wrapper .phone-image {
+  margin-right: 3rem;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  grid-column: span 1/span 1;
+  transition: all 0.3s ease;
+}
+@media (min-width: theme("screens.lg")) {
+  .section-project .showcase .image-container .image-wrapper .phone-image {
+    margin-right: 0.5rem;
+  }
+}
+@media (min-width: theme("screens.2xl")) {
+  .section-project .showcase .image-container .image-wrapper .phone-image {
+    margin-right: 3rem;
+  }
+}
+.section-project .showcase .image-container .image-wrapper .phone-image div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+.section-project .showcase .image-container .image-wrapper .phone-image div img {
+  object-fit: cover;
+  max-height: 40rem;
+}
+@media (min-width: theme("screens.lg")) {
+  .section-project .showcase .image-container .image-wrapper .phone-image.active {
+    width: 150%;
+  }
+  .section-project .showcase .image-container .image-wrapper .phone-image.active img {
+    max-height: 50rem;
+  }
 }
